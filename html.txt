@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <div>
+        <h1>First APi Datas</h1>
+        <p><img src="" alt="" id="image"></p>
+        <p id="id"></p>
+        <p id="first_name"></p>
+        <p id="last_name"></p>
+        <p id="email"></p>
+       
+    </div>
+
+    <div>
+        <h1>second APi Datas</h1>
+        <p id="name"></p>
+        <p id="population"></p>
+        <p id="region"></p>
+        <p id="sub-region"></p>
+        <p id="time"></p>
+    </div>
+
+    <div>
+        <h1>third APi Datas</h1>
+        <p id="emp1_fst"></p>
+        <p id="email1"></p>
+        <p id="DOB"></p>
+        <p id="address"></p>
+        <p id="salary"></p>
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+</html>
